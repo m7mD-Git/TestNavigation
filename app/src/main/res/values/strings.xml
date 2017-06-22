@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestNavigation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+<string name="large_text">
+        Material is the metaphor Motion respects and reinforces the user as the prime mover. Primary user actions are inflection points that initiate motion, transforming the whole design
+        All action takes place in a single environment. Objects are presented to the user without breaking the continuity of experience even as they transform and reorganize
+        .
+    </string>
+    <string name="title_activity_scrolling">Dahab Place</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="descriptionName">We Are Dahab App</string>
+    <string name="description">Dahab is travelling and tourism app that can
+        anable any one know his histirical destination today and tomorrow
+        Dahab is travelling and tourism app that can
+        anable any one know his histirical destination today and tomorrow.
+    </string>
+    <string name="rate">Rate This Place</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_activity__hotels">Explore Hotels</string>
+</resources>
